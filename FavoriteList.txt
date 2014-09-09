@@ -1,0 +1,20 @@
+vis                           |Visual Studio 2012            
+file                          |FileZillaPortable             
+expre                         |ExpressionWeb                 
+visu                          |Visual Studio 2012            
+chr                           |chrome                        
+chro                          |chrome                        
+bai                           |BaiduYunGuanjia               
+ba                            |BaiduYunGuanjia               
+baid                          |BaiduYunGuanjia               
+ch                            |chrome                        
+fi                            |FileZillaPortable             
+f                             |FileZillaPortable             
+ex                            |ExpressionWeb                 
+                              |My Computer                   
+expres                        |ExpressionWeb                 
+b                             |BaiduYunGuanjia               
+vi                            |Visual Studio 2012            
+v                             |Visual Studio 2012            
+jf                            |http://facultyweb.centennialcollege.ca/jfilotti/
+exp                           |ExpressionWeb                 
